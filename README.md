@@ -13,11 +13,7 @@ Skills: LARAVEL / TAILWIND CSS / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alfangunawan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfan-gunawan-akhmad-8bb884292//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@AlfanGunawan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://alstore.space)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfangunawan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alfangunawan&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/alfangunawan)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfangunawan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alfangunawan)  
 
