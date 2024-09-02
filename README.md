@@ -2,7 +2,6 @@
 #### i am a human and like to make something new, since i dont really coding like a master i am just experimenting with things i am curios about
 ![i am a human and like to make something new, since i dont really coding like a master i am just experimenting with things i am curios about](https://i.ibb.co.com/7Q5fY3j/15039820-5c671ab1-3538-4497-943f-5160f378533d.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: LARAVEL / TAILWIND CSS / JS / HTML / CSS
 
